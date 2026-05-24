@@ -1,1 +1,0 @@
-actividad_4_programacion_ia.md
