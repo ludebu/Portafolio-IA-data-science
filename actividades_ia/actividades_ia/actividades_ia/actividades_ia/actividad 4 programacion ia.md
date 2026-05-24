@@ -1,21 +1,21 @@
 # Actividad 4 - Programación Asistida por IA
 
-## Objetivo
+**Objetivo**
 
 Explorar herramientas de programación asistida por Inteligencia Artificial para desarrollar código, autocompletar funciones y corregir errores automáticamente.
 
-# Herramientas utilizadas
+**Herramientas utilizadas**
 
 - GitHub Codespaces
 - GitHub Copilot
 - ChatGPT
 - Cursor AI
 
-# Descripción del proyecto
+**Descripción del proyecto**
 
 Se desarrolló un juego simple de adivinanza en Python donde el usuario debe descubrir un número aleatorio generado por el sistema.
 
-# Código desarrollado
+**Código desarrollado**
 
 python
 import random
@@ -38,37 +38,33 @@ while True:
 
     else:
         print("El número es menor.")
-```
+
 
 ---
 
-# Uso de IA en programación
+**Uso de IA en programación**
 
-## Autocompletado con Copilot
+**Autocompletado con Copilot**
 
 GitHub Copilot sugirió automáticamente fragmentos de código y estructuras condicionales.
 
-### Resultados
+**Resultados**
 - Mayor velocidad de desarrollo.
 - Reducción de errores sintácticos.
 - Mejora de productividad.
 
----
-
-# Refactorización con IA
+**Refactorización con IA**
 
 Se utilizó IA para transformar el código procedural en programación orientada a objetos mediante clases.
 
-### Resultados
+**Resultados**
 - Código más organizado.
 - Mejor reutilización.
 - Mayor escalabilidad.
 
----
+**Experimentación**
 
-# Experimentación
-
-## Corrección automática de errores con IA
+**Corrección automática de errores con IA**
 
 Durante la experimentación se introdujo intencionalmente un error tipográfico en la función `print()` escribiendo:
 
@@ -79,7 +75,7 @@ Al ejecutar el programa, Python generó un error `NameError` indicando que la fu
 
 Posteriormente, el asistente de IA integrado en GitHub Codespaces detectó automáticamente el problema y sugirió reemplazar `prit()` por `print()`.
 
-### Resultado
+**Resultado**
 
 La IA logró:
 - identificar el error,
@@ -89,9 +85,8 @@ La IA logró:
 
 Esto demuestra cómo las herramientas de Inteligencia Artificial pueden mejorar significativamente el proceso de debugging y desarrollo de software.
 
----
 
-# Comparación de herramientas
+**Comparación de herramientas**
 
 | Herramienta | Función principal | Resultado |
 |---|---|---|
@@ -111,8 +106,6 @@ Sin embargo, confiar ciegamente en el código generado por IA puede representar 
 
 En conclusión, la IA no sustituye al programador, sino que lo empodera, permitiéndole enfocarse en tareas más complejas, creativas y analíticas dentro del proceso de desarrollo tecnológico.
 
----
-
 # Conclusiones
 
 - La IA acelera el desarrollo de código.
@@ -120,27 +113,25 @@ En conclusión, la IA no sustituye al programador, sino que lo empodera, permiti
 - La validación humana sigue siendo necesaria.
 - La programación asistida por IA representa el futuro del desarrollo de software.
 
----
-
 # Evidencias
 
-## Captura de Codespaces
+**Captura de Codespaces**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a3f8a2d8-8299-4285-84a9-ca166ee7b1e0" />
 
 
-## Código generado
+**Código generado**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7197216-2227-4f17-9711-1a240273fa1a" />
 
 
-## Corrección automática de errores
+**Corrección automática de errores**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9d6f1e0-d067-4faf-a56c-7fb98718f76d" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b5421db-c767-483c-b37b-06b14b2781da" />
 
-## Refactorizando
+**Refactorizando**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b25ba1f2-5095-4ec2-a5ec-e3d4ac6ed8cc" />
 
