@@ -91,3 +91,5 @@ Asimismo, se evidenció que la IA puede adaptarse a distintos perfiles de usuari
 - Grok se enfoca en escenarios técnicos y arquitecturas reales.
 
 Esto demuestra que la selección de herramientas de IA debe alinearse con el objetivo del proyecto y el nivel de especialización requerido.
+
+Frente a una pregunta más moral como la de si es ético clonar mascotas. Las tres no asumen una posición clara, arrojan resultados de posibles beneficios sin embargo la dejan abierta para que sea el usuario desde su posición personal adopte una postura frente al tema.
