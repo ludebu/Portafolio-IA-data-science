@@ -6,7 +6,7 @@ Explorar herramientas de inteligencia artificial para crear avatares digitales p
 **Herramientas utilizadas**
 - Hubavatar.me
 - StarryAI
-- HeyGen
+- Canva
 
 
 **Desarrollo de la actividad**
@@ -30,7 +30,7 @@ En StarryAI se utilizó el siguiente prompt:
 La IA generó distintas versiones del personaje con estilos visuales futuristas y animados.
 
 **3. Integración multimedia**
-El avatar generado fue utilizado en contenido multimedia y presentaciones digitales para experimentar con identidad visual creada mediante inteligencia artificial.
+El avatar generado fue utilizado en contenido multimedia y presentaciones digitales para experimentar con identidad visual creada mediante inteligencia artificial en Canva.
 
 **Experimentación**
 
