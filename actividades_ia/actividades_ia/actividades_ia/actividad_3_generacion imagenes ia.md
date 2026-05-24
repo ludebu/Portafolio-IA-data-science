@@ -1,25 +1,24 @@
 # Actividad 3 - Generación de Imágenes con Inteligencia Artificial
 
-## Objetivo
+**Objetivo**
 
 Explorar herramientas de generación de imágenes mediante Inteligencia Artificial y analizar la influencia de los prompts en los resultados visuales obtenidos.
 
 
-# Herramientas utilizadas
+**Herramientas utilizadas**
 
 - Adobe Firefly
 - Leonardo AI
 - Nano banana
 - ChatGPT (apoyo conceptual)
 
----
 
-# Prompt utilizado
+**Prompt utilizado**
 
 Un astronauta tocando guitarra en la luna, estilo acuarela, atardecer azul
----
 
-# Resultados obtenidoss
+
+**Resultados obtenidos**
 
 Las herramientas generraron múltiples variantes de imágenes con diferencias en:
 - iluminación,
@@ -30,39 +29,37 @@ Las herramientas generraron múltiples variantes de imágenes con diferencias en
 
 Las imágenes mostraron características creativas y estilos similares a ilustraciones digitales profesionales.
 
----
-
-# Imagen Adobe FireFly
+**Imagen Adobe FireFly**
 
 
 <img width="540" height="313" alt="image" src="https://github.com/user-attachments/assets/c9e38f1c-8006-4502-a2f3-86d09f67dfdc" />
 
-# Imagen Adobe Leonardo AI
+**Imagen Adobe Leonardo AI**
 
 <img width="501" height="334" alt="image" src="https://github.com/user-attachments/assets/40fcbb7f-b691-43a2-81f4-12905a734af7" />
 
-# Imagen Nano Banana
+**Imagen Nano Banana**
 
 <img width="803" height="420" alt="image" src="https://github.com/user-attachments/assets/39ea3818-56af-45f7-b876-d76a3eacf836" />
 
 
 ---
 
-# Experimentación
+**Experimentación**
 
-## Uso de prompts negativos
+**Uso de prompts negativos**
 
 Se agregaron instrucciones negativas como: sin deformaciones, 
 
-### Resultados
+**Resultados**
 
 El uso de prompts negativos mejoró la calidad visual y redujo errores comunes generados por la IA.
 
-# Serie temática
+**Serie temática**
 
-## Prompt utilizado: La evolución humana en 4 épocas, estilo cinematográfico
+**Prompt utilizado: La evolución humana en 4 épocas, estilo cinematográfico**
 
-### Resultados
+**Resultados**
 
 La IA generó diferentes representaciones visuales relacionadas con cambios históricos y futuristas de la humanidad.
 
@@ -78,7 +75,7 @@ La IA generó diferentes representaciones visuales relacionadas con cambios hist
 
 
 
-# Análisis comparativo
+**Análisis comparativo**
 
 | Aspecto | Resultado |
 |---|---|
@@ -88,7 +85,7 @@ La IA generó diferentes representaciones visuales relacionadas con cambios hist
 | Nivel de detalle | Alto |
 | Tiempo de generación | Bajo |
 
----
+
 
 # Reflexión crítica
 
@@ -104,7 +101,6 @@ Aunque el usuario define el prompt y dirige la idea creativa, la IA realiza gran
 
 Esto plantea preguntas importantes sobre quién debe considerarse el verdadero autor de una obra generada mediante Inteligencia Artificial.
 
----
 
 # Conclusiones
 
@@ -112,6 +108,4 @@ Esto plantea preguntas importantes sobre quién debe considerarse el verdadero a
 - Los prompts negativos ayudan a mejorar resultados visuales.
 - La IA facilita la creación artística digital.
 - Existen desafíos éticos relacionados con autoría y originalidad.
-
----
 
