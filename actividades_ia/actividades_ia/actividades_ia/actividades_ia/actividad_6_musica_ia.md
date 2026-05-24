@@ -1,39 +1,35 @@
 # Actividad 6 - Generación de Música y Audio con Inteligencia Artificial
 
-## Objetivo
+**Objetivo**
 
 Explorar herramientas de generación automática de música mediante Inteligencia Artificial utilizando síntesis de voz, composición algorítmica y creación de audio automatizada.
 
-# Herramientas utilizadas
+**Herramientas utilizadas**
 
 - Suno AI
 - ChatGPT
 - GitHub
 
----
-
-# Descripción de la actividad
+** Descripción de la actividad**
 
 En esta actividad se utilizó la plataforma Suno AI para generar música automáticamente a partir de instrucciones escritas en lenguaje natural.
 
 La herramienta permitió crear canciones completas incluyendo:
-- letra,
-- voz,
-- instrumental,
-- mezcla de audio,
-- estilo musical.
+- Letra
+- Voz
+- Instrumental
+- Mezcla de audio
+- Estilo musical.
 
 El objetivo fue comprender cómo la Inteligencia Artificial puede participar en procesos creativos relacionados con composición musical y producción audiovisual.
 
----
 
-# Prompt utilizado
+**Prompt utilizado**
 
 Inspirational upbeat pop song about overcoming fears, female voice, emotional and motivating mood, modern instrumental, 1 minute duration.
 
----
 
-# Desarrollo de la actividad
+**Desarrollo de la actividad**
 
 Durante la práctica se realizaron las siguientes acciones:
 
@@ -44,9 +40,8 @@ Durante la práctica se realizaron las siguientes acciones:
 - Comparación de resultados entre estilos.
 - Integración conceptual con video generado en HeyGen.
 
----
 
-# Resultados obtenidos
+**Resultados obtenidos**
 
 La Inteligencia Artificial logró producir canciones completas de manera automática incluyendo composición instrumental y voz sintética.
 
@@ -59,47 +54,41 @@ El sistema generó:
 
 Los resultados demostraron un nivel avanzado de automatización creativa y producción multimedia.
 
----
 
-# Experimentación
+**Experimentación**
 
-## Género lofi
+**Género lofi**
 
 Se generó música relajante orientada a concentración y estudio.
 
-### Observaciones
+**Observaciones**
 
 La IA produjo sonidos suaves, repetitivos y ambientales característicos del estilo lofi.
 
----
 
-## Género rock
+**Género rock**
 
 Se generó una canción energética con instrumentos más intensos y ritmo acelerado.
 
-### Observaciones
+**Observaciones**
 
 La IA logró adaptar correctamente batería, guitarras y dinámica vocal al género rock.
 
----
-
-## Género clásica
+**Género clásica**
 
 Se creó una composición instrumental basada en piano y arreglos orquestales.
 
-### Observaciones
+**Observaciones**
 
 La música presentó una atmósfera emocional y cinematográfica.
 
----
 
-# Integración multimedia
+**Integración multimedia**
 
 La música generada puede combinarse fácilmente con videos creados mediante herramientas como HeyGen, permitiendo automatizar completamente procesos de creación audiovisual.
 
----
 
-# Observaciones técnicas
+**Observaciones técnicas**
 
 Las plataformas de generación musical mediante IA utilizan modelos de deep learning entrenados con grandes volúmenes de datos musicales para aprender:
 - armonías,
@@ -110,7 +99,6 @@ Las plataformas de generación musical mediante IA utilizan modelos de deep lear
 
 Estas tecnologías combinan procesamiento de audio, redes neuronales y modelos generativos avanzados.
 
----
 
 # Reflexión crítica
 
@@ -136,14 +124,14 @@ Por esta razón, resulta fundamental desarrollar regulaciones claras y promover 
 
 ---
 
-# Evidencias
+**Evidencias**
 
-## Captura de Suno AI
+**Captura de Suno AI**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8699dbab-f72a-4033-b05e-eb6582bbbf97" />
 
 
-## Canción generada
+**Canción generada**
 
  https://suno.com/s/WXb4smwlAqkwHCUJ
 
