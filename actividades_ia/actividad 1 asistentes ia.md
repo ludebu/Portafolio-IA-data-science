@@ -1,6 +1,6 @@
 # Actividad 1 - Asistentes Conversacionales de IA
 
-Objetivo
+# Objetivo
 
 Explorar y comparar asistentes conversacionales de Inteligencia Artificial para analizar diferencias en precisión, claridad, multimodalidad y utilidad académica.
 # Herramientas utilizadas
@@ -28,6 +28,20 @@ En términos generales:
 - Grok fue el más técnico y orientado a escenarios reales de ingeniería de datos.
 
 La actividad permitió evidenciar que las herramientas de Inteligencia Artificial poseen fortalezas diferentes dependiendo del contexto de uso, el nivel técnico requerido y el tipo de usuario.
+
+| Criterio                     | ChatGPT   | Gemini    | Grok     |
+| ---------------------------- | --------- | --------- | -------- |
+| Claridad                     | Alta      | Muy alta  | Media    |
+| Profundidad técnica          | Alta      | Media     | Muy alta |
+| Facilidad para principiantes | Alta      | Muy alta  | Baja     |
+| Aplicación empresarial       | Alta      | Media     | Muy alta |
+| Explicación visual           | Media     | Alta      | Media    |
+| Herramientas modernas        | Media     | Baja      | Muy alta |
+| Uso académico                | Muy alto  | Alto      | Alto     |
+| Uso profesional real         | Alto      | Medio     | Muy alto |
+| Organización                 | Excelente | Muy buena | Buena    |
+| Multimodalidad               | Media     | Alta      | Baja     |
+
 
 # Ejemplos generados de esquema simple
 # ChatGPT
@@ -92,4 +106,4 @@ Asimismo, se evidenció que la IA puede adaptarse a distintos perfiles de usuari
 
 Esto demuestra que la selección de herramientas de IA debe alinearse con el objetivo del proyecto y el nivel de especialización requerido.
 
-Frente a una pregunta más moral como la de si es ético clonar mascotas. Las tres no asumen una posición clara, arrojan resultados de posibles beneficios sin embargo la dejan abierta para que sea el usuario desde su posición personal adopte una postura frente al tema.
+Frente a una pregunta más moral como "si es ético clonar mascotas". Ninguna asume una posición radical, arrojan resultados de posibles beneficios si se llegara hacer, sin embargo la respuesta es abierta para que sea el usuario, quien desde su posición personal adopte una postura frente al tema.
