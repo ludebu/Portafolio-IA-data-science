@@ -19,9 +19,7 @@ El objetivo fue comprender cómo la IA puede automatizar procesos de producción
 
 **Prompt utilizado**
 
-```text
 Crea un video corto educativo sobre cómo preparar café perfecto en 30 segundos usando un avatar profesional, voz natural y fondo moderno de cocina.
-```
 
 **Desarrollo de la actividad**
 
