@@ -29,6 +29,7 @@ En términos generales:
 
 La actividad permitió evidenciar que las herramientas de Inteligencia Artificial poseen fortalezas diferentes dependiendo del contexto de uso, el nivel técnico requerido y el tipo de usuario.
 
+
 | Criterio                     | ChatGPT   | Gemini    | Grok     |
 | ---------------------------- | --------- | --------- | -------- |
 | Claridad                     | Alta      | Muy alta  | Media    |
@@ -43,8 +44,10 @@ La actividad permitió evidenciar que las herramientas de Inteligencia Artificia
 | Multimodalidad               | Media     | Alta      | Baja     |
 
 
-# Ejemplos generados de esquema simple
-# ChatGPT
+**Ejemplos generados de esquema simple**
+
+**ChatGPT**
+
  ┌─────────────────┐
  │ Sistema Origen  │
  │ (Banco / CRM)   │
@@ -75,6 +78,7 @@ La actividad permitió evidenciar que las herramientas de Inteligencia Artificia
  └─────────────────┘
 
  **Gemini**
+ 
  FUENTES DE ORIGEN             ZONA DE PROCESAMIENTO (ETL)             DESTINO FINAL
 +------------------+         +-----------------------------+         +-----------------+
 |  Base de Datos   | ------> |      Limpieza de Datos      | ------> |    Tablero de   |
@@ -89,7 +93,9 @@ La actividad permitió evidenciar que las herramientas de Inteligencia Artificia
         |                                   |                                |
   [Fase: Origen]                  [Fase: Transformación]              [Fase: Consumo]
 
-  **Grock**
+ 
+  **Grok**
+  
   <img width="811" height="537" alt="image" src="https://github.com/user-attachments/assets/3ca304cc-6976-44ce-90ad-daa06f16ce23" />
 
 
