@@ -1,18 +1,18 @@
 # Actividad 1 - Asistentes Conversacionales de IA
 
-# Objetivo
+**Objetivo**
 
 Explorar y comparar asistentes conversacionales de Inteligencia Artificial para analizar diferencias en precisión, claridad, multimodalidad y utilidad académica.
-# Herramientas utilizadas
+**Herramientas utilizadas**
 - ChatGPT
 - Gemini
 - Grok
 
-# Pregunta realizada
+**Pregunta realizada**
 Explica el linaje de datos como si fueras un científico de datos y dibuja un esquema simple.
 
-# Resultados obtenidos
-# Comparación de asistentes conversacionales IA
+**Resultados obtenidos**
+**Comparación de asistentes conversacionales IA**
 
 Durante la actividad se compararon las respuestas generadas por ChatGPT, Gemini y Grok sobre el concepto de linaje de datos (Data Lineage).
 
@@ -74,7 +74,7 @@ La actividad permitió evidenciar que las herramientas de Inteligencia Artificia
  │ Dashboard       │
  └─────────────────┘
 
- # Gemini
+ **Gemini**
  FUENTES DE ORIGEN             ZONA DE PROCESAMIENTO (ETL)             DESTINO FINAL
 +------------------+         +-----------------------------+         +-----------------+
 |  Base de Datos   | ------> |      Limpieza de Datos      | ------> |    Tablero de   |
@@ -89,7 +89,7 @@ La actividad permitió evidenciar que las herramientas de Inteligencia Artificia
         |                                   |                                |
   [Fase: Origen]                  [Fase: Transformación]              [Fase: Consumo]
 
-  # Grok
+  **Grock**
   <img width="811" height="537" alt="image" src="https://github.com/user-attachments/assets/3ca304cc-6976-44ce-90ad-daa06f16ce23" />
 
 
