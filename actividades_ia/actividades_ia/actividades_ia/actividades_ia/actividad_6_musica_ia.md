@@ -10,7 +10,7 @@ Explorar herramientas de generación automática de música mediante Inteligenci
 - ChatGPT
 - GitHub
 
-** Descripción de la actividad**
+**Descripción de la actividad**
 
 En esta actividad se utilizó la plataforma Suno AI para generar música automáticamente a partir de instrucciones escritas en lenguaje natural.
 
