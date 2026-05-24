@@ -67,6 +67,7 @@ El aprendizaje sigue dependiendo del análisis y la comprensión del estudiante.
 
 **Evidencias**
 
-
 Presentación generada
+
+https://gamma.app/docs/El-Futuro-de-la-IA-en-la-Educacion-l0v3wvv9d2di8za
 
